@@ -12,6 +12,7 @@ I built an interactive story game
 
 Three paths. Nine unique endings. One city that earns its mysteries.
 
+[![Path-Quest2.jpg](https://i.postimg.cc/hGbV6PxQ/Path-Quest2.jpg)](https://postimg.cc/KKjKgb0m)
 ---
 
 ## ✨ Features
